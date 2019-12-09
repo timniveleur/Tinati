@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /*?o=
+Sitemap: https://colbacolorbar.ru/sitemap.xml

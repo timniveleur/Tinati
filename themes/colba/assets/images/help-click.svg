@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14.412" height="20.816" viewBox="0 0 14.412 20.816">
+  <g id="help-click" transform="translate(-275 -819)">
+    <path id="Intersection_1" data-name="Intersection 1" d="M0,8.807v-1.6A7.206,7.206,0,0,1,7.206,0V8.807Z" transform="translate(275 819)" fill="#ef806c"/>
+    <g id="help-click-2" data-name="help-click" transform="translate(275 819)" fill="none" stroke="#ef806c" stroke-width="1">
+      <rect width="14.411" height="20.817" rx="7.206" stroke="none"/>
+      <rect x="0.5" y="0.5" width="13.411" height="19.817" rx="6.706" fill="none"/>
+    </g>
+  </g>
+</svg>

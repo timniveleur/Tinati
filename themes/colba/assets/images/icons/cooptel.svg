@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.95" height="24.191" viewBox="0 0 20.95 24.191">
+  <g id="cooptel" transform="translate(-532.543 -2111.701)">
+    <g id="Group_79" data-name="Group 79" transform="translate(533.043 2135.315) rotate(-90)">
+      <path id="Path_104" data-name="Path 104" d="M17.277,0H5.759L0,9.975,5.759,19.95H17.277l5.759-9.975Z" transform="translate(0 0)" fill="none" stroke="#ef806c" stroke-width="1"/>
+    </g>
+    <g id="Group_82" data-name="Group 82" transform="translate(533 2117.895) rotate(-30)">
+      <g id="Rectangle_140" data-name="Rectangle 140" fill="none" stroke="#ef806c" stroke-width="1">
+        <rect width="11.369" height="20.148" stroke="none"/>
+        <rect x="0.5" y="0.5" width="10.369" height="19.148" fill="none"/>
+      </g>
+      <ellipse id="Ellipse_56" data-name="Ellipse 56" cx="0.764" cy="0.764" rx="0.764" ry="0.764" transform="translate(5.028 18.312)" fill="#ef806c"/>
+      <path id="Path_117" data-name="Path 117" d="M0,0H11.232" transform="translate(0.138 18.119)" fill="none" stroke="#ef806c" stroke-width="1"/>
+      <path id="Path_118" data-name="Path 118" d="M0,0H2.424" transform="translate(4.595 1.496)" fill="none" stroke="#ef806c" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

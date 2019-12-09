@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="15" viewBox="0 0 20 15">
+  <g id="filter-icon" transform="translate(-9430 2677)">
+    <g id="Ellipse_130" data-name="Ellipse 130" transform="translate(9430 -2677)" fill="none" stroke="#2d292a" stroke-width="2">
+      <circle cx="1.5" cy="1.5" r="1.5" stroke="none"/>
+      <circle cx="1.5" cy="1.5" r="0.5" fill="none"/>
+    </g>
+    <g id="Ellipse_131" data-name="Ellipse 131" transform="translate(9430 -2671)" fill="none" stroke="#2d292a" stroke-width="2">
+      <circle cx="1.5" cy="1.5" r="1.5" stroke="none"/>
+      <circle cx="1.5" cy="1.5" r="0.5" fill="none"/>
+    </g>
+    <g id="Ellipse_132" data-name="Ellipse 132" transform="translate(9430 -2665)" fill="none" stroke="#2d292a" stroke-width="2">
+      <circle cx="1.5" cy="1.5" r="1.5" stroke="none"/>
+      <circle cx="1.5" cy="1.5" r="0.5" fill="none"/>
+    </g>
+    <path id="Path_408" data-name="Path 408" d="M8440-2407.684h14" transform="translate(996 -267.816)" fill="none" stroke="#2d292a" stroke-width="2"/>
+    <path id="Path_409" data-name="Path 409" d="M8440-2407.684h14" transform="translate(996 -261.816)" fill="none" stroke="#2d292a" stroke-width="2"/>
+    <path id="Path_410" data-name="Path 410" d="M8440-2407.684h14" transform="translate(996 -255.816)" fill="none" stroke="#2d292a" stroke-width="2"/>
+  </g>
+</svg>

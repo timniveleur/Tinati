@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10" height="11.55" viewBox="0 0 10 11.55">
+  <g id="awards-card-dot" transform="translate(10) rotate(90)" fill="none" stroke-miterlimit="10">
+    <path d="M8.662,0H2.887L0,5l2.887,5H8.662L11.55,5Z" stroke="none"/>
+    <path d="M 2.88740348815918 0 L 8.662203788757324 0 L 11.54960346221924 5 L 8.662203788757324 10 L 2.88740348815918 10 L 3.814697265625e-06 5 L 2.88740348815918 0 Z" stroke="none" fill="#ef806c"/>
+  </g>
+</svg>

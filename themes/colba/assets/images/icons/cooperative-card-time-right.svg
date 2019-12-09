@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="23.099" viewBox="0 0 20 23.099">
+  <g id="cooperative-card-time-right" transform="translate(-1131 -812)">
+    <path id="Path_325" data-name="Path 325" d="M2691,1727.159v22.29l9.862-5.721v-11.071Z" transform="translate(-1550 -914.361)" fill="#fff"/>
+    <g id="Path_324" data-name="Path 324" transform="translate(1151 812) rotate(90)" fill="none" stroke-miterlimit="10">
+      <path d="M5.775,20h11.55L23.1,10,17.324,0H5.775L0,10Z" stroke="none"/>
+      <path d="M 16.74710273742676 18.9999828338623 L 21.94442749023438 9.999987602233887 L 16.74709701538086 1.000002384185791 L 6.352073669433594 1.000002384185791 L 1.154763698577881 9.999982833862305 L 6.35207462310791 18.9999828338623 L 16.74710273742676 18.9999828338623 M 17.32438850402832 19.9999828338623 L 5.774787902832031 19.9999828338623 L -2.25982671508973e-06 9.999982833862305 L 5.774787902832031 2.370605443502427e-06 L 17.32438850402832 2.370605443502427e-06 L 23.09919738769531 9.999982833862305 L 17.32438850402832 19.9999828338623 Z" stroke="none" fill="#7a93c4"/>
+    </g>
+    <g id="Group_141" data-name="Group 141" transform="translate(0 -0.481)">
+      <path id="Path_129" data-name="Path 129" d="M-323.25,4281.789v3.667" transform="translate(1464.307 -3450.308)" fill="none" stroke="#7a93c4" stroke-width="1"/>
+      <path id="Path_326" data-name="Path 326" d="M-323.25,4281.789v3.667" transform="translate(1464.307 -3468.308)" fill="none" stroke="#7a93c4" stroke-width="1"/>
+      <path id="Path_130" data-name="Path 130" d="M0,0V3.589" transform="translate(1150.665 824.181) rotate(90)" fill="none" stroke="#7a93c4" stroke-width="1"/>
+      <path id="Path_131" data-name="Path 131" d="M0,0V3.589" transform="translate(1135.038 824.181) rotate(90)" fill="none" stroke="#7a93c4" stroke-width="1"/>
+    </g>
+    <path id="Path_327" data-name="Path 327" d="M2793.057,1702.916v6.417l.274,3.181" transform="translate(-1652 -885)" fill="none" stroke="#7a93c4" stroke-width="1"/>
+  </g>
+</svg>
